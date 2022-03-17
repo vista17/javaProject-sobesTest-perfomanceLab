@@ -1,0 +1,1 @@
+C:\java\jre1.8.0_211\bin\java.exe -jar task2.jar c:\IdeaProject\task2\circle.txt c:\IdeaProject\task2\points.txt 

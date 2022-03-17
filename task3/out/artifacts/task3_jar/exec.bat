@@ -1,0 +1,1 @@
+C:\java\jre1.8.0_211\bin\java.exe -jar task3.jar c:\IdeaProject\task3\tests.json c:\IdeaProject\task3\values.json
